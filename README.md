@@ -1,1 +1,3 @@
-This is my Git Repository. Author - Moaaz Hassan
+This is my Git Repository.
+<br />
+Author - Moaaz Hassan
